@@ -1,0 +1,8 @@
+#define PROJECT_NAME "@CMAKE_PROJECT_NAME@"
+
+#define VERSION_MAJOR @Chess_VERSION_MAJOR@
+#define VERSION_MINOR @Chess_VERSION_MINOR@
+#define VERSION_PATCH @Chess_VERSION_PATCH@
+
+#cmakedefine DEBUG
+#cmakedefine RELEASE
